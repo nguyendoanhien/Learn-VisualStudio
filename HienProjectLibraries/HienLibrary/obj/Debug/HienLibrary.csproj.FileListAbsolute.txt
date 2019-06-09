@@ -1,0 +1,6 @@
+D:\Hien\School\Thuong mai dien tu\webs\eCommerce_C2C_Subscription\ShoesStore\HienLibrary\obj\Debug\HienLibrary.csprojAssemblyReference.cache
+D:\Hien\School\Thuong mai dien tu\webs\eCommerce_C2C_Subscription\ShoesStore\HienLibrary\obj\Debug\HienLibrary.csproj.CoreCompileInputs.cache
+D:\Hien\School\Thuong mai dien tu\webs\eCommerce_C2C_Subscription\ShoesStore\HienLibrary\bin\Debug\HienLibrary.dll
+D:\Hien\School\Thuong mai dien tu\webs\eCommerce_C2C_Subscription\ShoesStore\HienLibrary\bin\Debug\HienLibrary.pdb
+D:\Hien\School\Thuong mai dien tu\webs\eCommerce_C2C_Subscription\ShoesStore\HienLibrary\obj\Debug\HienLibrary.dll
+D:\Hien\School\Thuong mai dien tu\webs\eCommerce_C2C_Subscription\ShoesStore\HienLibrary\obj\Debug\HienLibrary.pdb
