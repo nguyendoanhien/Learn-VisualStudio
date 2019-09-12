@@ -1,5 +1,5 @@
 {
-  "id": "0d561643-6a3d-4fbb-8c48-3732996be1c5",
+  "id": "1cabac16-d47c-4c50-bbc7-a630f32cd7d4",
   "name": "My Visual Studio extensions",
   "description": "A collection of my Visual Studio extensions",
   "version": "1.0",
@@ -13,12 +13,24 @@
       "vsixId": "Microsoft.VisualStudio.CloudExplorer.16.0"
     },
     {
+      "name": "CodeMaid",
+      "vsixId": "4c82e17d-927e-42d2-8460-b473ac7df316"
+    },
+    {
       "name": "Extension Manager 2019",
       "vsixId": "4a196712-2c3f-4730-ad1d-e7cda4185eb2"
     },
     {
       "name": "Favorite Documents",
       "vsixId": "e4b4ad14-81d5-4eb2-b04d-bd2e86aa4cd3"
+    },
+    {
+      "name": "JSON2CSharp",
+      "vsixId": "JSON2CSharp.5a79e37c-be17-45f4-887f-4ffd6a4cd8c5"
+    },
+    {
+      "name": "LineSorter",
+      "vsixId": "LineSorter.c3caf4db-92f1-4faa-b2c3-fafaddf4420b"
     },
     {
       "name": "Live Share",
