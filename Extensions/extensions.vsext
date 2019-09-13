@@ -1,5 +1,5 @@
 {
-  "id": "1cabac16-d47c-4c50-bbc7-a630f32cd7d4",
+  "id": "7ab30cb5-fe8b-4b1b-84e8-ceb91a6685c3",
   "name": "My Visual Studio extensions",
   "description": "A collection of my Visual Studio extensions",
   "version": "1.0",
@@ -25,6 +25,10 @@
       "vsixId": "e4b4ad14-81d5-4eb2-b04d-bd2e86aa4cd3"
     },
     {
+      "name": "GoToDnSpy",
+      "vsixId": "GoToDnSpy"
+    },
+    {
       "name": "JSON2CSharp",
       "vsixId": "JSON2CSharp.5a79e37c-be17-45f4-887f-4ffd6a4cd8c5"
     },
@@ -35,6 +39,10 @@
     {
       "name": "Live Share",
       "vsixId": "Microsoft.VisualStudio.LiveShare"
+    },
+    {
+      "name": "Magical C# Debugging - OzCode",
+      "vsixId": "6c84f75d-38c3-48a2-9e54-d362238686b5"
     },
     {
       "name": "Visual Studio IntelliCode",
